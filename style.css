@@ -1,0 +1,13 @@
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 30px;
+height: 100px;
+width: 100px;
+border: 1px solid blue;
+}
+
+circle{
+    color:green;
+}
